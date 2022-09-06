@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Jiachang Liu, a Ph.D. candidate studying machine learning at Duke University. My advisor is Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). My main research interest is in interpretable machine learning. I am designing ML algorithms that rely heavily on efficient discrete and continuous optimization techniques.
+
+Before coming to Duke, I earned my B.S. degree with double majors in in physics and mathematics and a minor in computer science from [University of Michigan, Ann Arbor](https://umich.edu) in 2018.
+
 <!--
 **jiachangliu/jiachangliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
